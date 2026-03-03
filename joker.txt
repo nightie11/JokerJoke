@@ -1,4 +1,3 @@
-public class YOUGOTSICK(){
   [Test]
     public void Virus()
     {
@@ -9,3 +8,4 @@ public class YOUGOTSICK(){
 //ЭТОТ ФАЙЛ БЫЛ ЗАРАЖЁН ВИРУСОМ ДРАН-67
 //ЭТОТ ФАЙЛ БЫЛ ЗАРАЖЁН ВИРУСОМ ДРАН-67
 //ЭТОТ ФАЙЛ БЫЛ ЗАРАЖЁН ВИРУСОМ ДРАН-67
+
