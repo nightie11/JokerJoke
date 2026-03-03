@@ -1,9 +1,10 @@
 public class YOUGOTSICK(){
   [Test]
-  public void Virus{
-    Virus virus = new Virus();
-    virus.Multiply();
-  }
+    public void Virus()
+    {
+        Virus virus = new Virus();
+        virus.Multiply();
+    }
 }
 //ЭТОТ ФАЙЛ БЫЛ ЗАРАЖЁН ВИРУСОМ ДРАН-67
 //ЭТОТ ФАЙЛ БЫЛ ЗАРАЖЁН ВИРУСОМ ДРАН-67
